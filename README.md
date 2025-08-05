@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Damian
 
-<!--
-**Damian-teocles/Damian-teocles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end enthusiast passionate about tech, design, and robotics.  
+I love creating user interfaces, playing guitar, and reading functional books.
 
-Here are some ideas to get you started:
+## 💻 What I'm working on
+- Building front-end projects with HTML, CSS, and JavaScript
+- Exploring robotics and databases
+- Preparing for my first tech job
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My goals
+- Become a strong front-end developer
+- Work remotely in tech
+- Build my own AI assistant inspired by JARVIScd 
+---
+
+Thanks for visiting my profile! 🚀
